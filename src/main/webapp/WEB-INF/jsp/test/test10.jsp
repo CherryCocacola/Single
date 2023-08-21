@@ -6,7 +6,7 @@
 <meta charset="EUC-KR">
 <title>Insert title here</title>
 </head>
-<body>
+<body> 
 	<h1>경난이</h1>
 	<h2>바봉</h2>
 </body>
