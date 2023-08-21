@@ -9,7 +9,5 @@
 <body>
 <h1>AAA</h1>
 <h1>BBB</h1>
-<h1>CCC</h1>
-<h1>DDD</h1>
 </body>
 </html>
