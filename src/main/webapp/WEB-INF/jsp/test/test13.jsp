@@ -10,9 +10,5 @@
 <h1>TEST</h1>
 <h2>test2</h2>
 <h3>test3</h3>
-<h2>test2</h2>
-<h3>test3</h3>
-<h1>asdfsadfdasfsadf</h1>
-</body>
 </body>
 </html>
