@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body> 
-	<h1>∞Ê≥≠¿Ã</h1>
+	<h1>∞Ê≥≠¿Ã</h1> 
 	<h2>πŸ∫¿</h2>
 	<h2>πŸ∫¿</h2>
 	<h2>πŸ∫¿</h2>
