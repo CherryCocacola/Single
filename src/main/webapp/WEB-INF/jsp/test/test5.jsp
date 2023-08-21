@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>안녕하다</h1>
+hello~~~~~~~~~~~!~!
 <H1>HI</H1>
-<h1>안녕하세용</h1>
+<H1>바이</H1>
 </body>
 </html>
