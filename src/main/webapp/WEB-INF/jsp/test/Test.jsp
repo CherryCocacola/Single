@@ -8,14 +8,5 @@
 </head>
 <body>
 <h1>AAA</h1>
-<h1>BBB</h1>
-<h1>DDD</h1>
-<h1>CCC</h1>
-<h1>EEE</h1>
-<h1>FFF</h1>
-<h1>FFF</h1>
-<h1>GGG</h1>
-<h1>ㅋㅋㅋ</h1>
-
 </body>
 </html>

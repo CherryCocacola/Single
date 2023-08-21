@@ -10,10 +10,5 @@
 	<h1>AAA</h1>
 	<h1>BBB</h1>
 	//히히
-<<<<<<< master
-	//헤헤
-=======
-	<h1>추가</h1>
->>>>>>> 50be133 Revert "merge"
 </body>
 </html>
