@@ -6,11 +6,9 @@
 <meta charset="EUC-KR">
 <title>Insert title here</title>
 </head>
-<body>
-hello~~~~~~~~~~~!~!
-<H1>HI</H1>
-<H1>바이</H1>
-<H1>바이바이바이</H1>
-<H1>HI</H1>
+<body> 
+	<h1>경난이</h1>
+	<h2>바봉</h2>
+	<h3>bingo</h3>
 </body>
 </html>

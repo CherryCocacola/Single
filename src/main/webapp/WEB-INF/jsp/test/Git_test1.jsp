@@ -7,16 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-<h1>안녕하세요</h1>
-
-=======
-<h1>AAA</h1>
-<h1>BBB</h1>
-<h1>DDD</h1>
-<h1>CCC</h1>
-<h1>EEE</h1>
-<h1>FFF</h1>
->>>>>>> branch 'master' of https://github.com/CherryCocacola/Single.git
+aaaa
 </body>
 </html>
